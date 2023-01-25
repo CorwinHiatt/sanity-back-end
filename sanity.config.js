@@ -5,7 +5,7 @@ import {schemaTypes} from './schemas'
 
 export default defineConfig({
   name: 'default',
-  title: 'corwins-backend-portfolio',
+  title: 'corwins-portfolio',
 
   projectId: 'qn91x42a',
   dataset: 'production',
